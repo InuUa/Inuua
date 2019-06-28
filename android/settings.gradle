@@ -1,0 +1,3 @@
+rootProject.name = 'Inuua'
+
+include ':app'
